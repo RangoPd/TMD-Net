@@ -1,0 +1,456 @@
+[2024-04-14 17:08:52,733 INFO] From: F:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-04-14 17:08:52,734 INFO] 	* source vocab: 80 words
+[2024-04-14 17:08:52,734 INFO] 	* target vocab: 80 words
+[2024-04-14 17:14:33,127 INFO] Got 2196007 encryption embeddings from F:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-04-14 17:14:33,390 INFO]
+Matching:
+[2024-04-14 17:14:33,390 INFO] 	* enc: 78 match, 2 missing, (97.50%)
+[2024-04-14 17:14:33,391 INFO] 	* dec: 78 match, 2 missing, (97.50%)
+[2024-04-14 17:14:33,391 INFO]
+Filtered embeddings:
+[2024-04-14 17:14:33,400 INFO] 	* enc: torch.Size([80, 300])
+[2024-04-14 17:14:33,400 INFO] 	* dec: torch.Size([80, 300])
+[2024-04-14 17:14:33,401 INFO]
+Saving embedding as:
+	* enc: F:/shiyan/HMD_Network-master/data/processed.enc.pt
+	* dec: F:/shiyan/HMD_Network-master/data/processed.dec.pt
+[2024-04-14 17:14:33,490 INFO]
+Done.
+[2024-04-20 15:15:29,322 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-04-20 15:15:29,322 INFO] 	* source vocab: 80 words
+[2024-04-20 15:15:29,322 INFO] 	* target vocab: 80 words
+[2024-04-20 15:21:03,598 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-04-20 15:21:03,895 INFO]
+Matching:
+[2024-04-20 15:21:03,895 INFO] 	* enc: 78 match, 2 missing, (97.50%)
+[2024-04-20 15:21:03,895 INFO] 	* dec: 78 match, 2 missing, (97.50%)
+[2024-04-20 15:21:03,895 INFO]
+Filtered embeddings:
+[2024-04-20 15:21:03,911 INFO] 	* enc: torch.Size([80, 300])
+[2024-04-20 15:21:03,911 INFO] 	* dec: torch.Size([80, 300])
+[2024-04-20 15:21:03,911 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-04-20 15:21:03,989 INFO]
+Done.
+[2024-04-25 09:03:54,303 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-04-25 09:03:54,312 INFO] 	* source vocab: 80 words
+[2024-04-25 09:03:54,312 INFO] 	* target vocab: 80 words
+[2024-04-25 09:09:18,126 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-04-25 09:09:18,375 INFO]
+Matching:
+[2024-04-25 09:09:18,376 INFO] 	* enc: 78 match, 2 missing, (97.50%)
+[2024-04-25 09:09:18,376 INFO] 	* dec: 78 match, 2 missing, (97.50%)
+[2024-04-25 09:09:18,376 INFO]
+Filtered embeddings:
+[2024-04-25 09:09:18,389 INFO] 	* enc: torch.Size([80, 300])
+[2024-04-25 09:09:18,389 INFO] 	* dec: torch.Size([80, 300])
+[2024-04-25 09:09:18,389 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove2.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove2.dec.pt
+[2024-04-25 09:09:18,543 INFO]
+Done.
+[2024-04-27 15:58:31,173 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-04-27 15:58:31,173 INFO] 	* source vocab: 80 words
+[2024-04-27 15:58:31,173 INFO] 	* target vocab: 80 words
+[2024-04-27 15:59:05,613 INFO] Got 218114 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d_part_1.txt
+[2024-04-27 15:59:05,644 INFO]
+Matching:
+[2024-04-27 15:59:05,644 INFO] 	* enc: 76 match, 4 missing, (95.00%)
+[2024-04-27 15:59:05,644 INFO] 	* dec: 76 match, 4 missing, (95.00%)
+[2024-04-27 15:59:05,644 INFO]
+Filtered embeddings:
+[2024-04-27 15:59:05,644 INFO] 	* enc: torch.Size([80, 300])
+[2024-04-27 15:59:05,644 INFO] 	* dec: torch.Size([80, 300])
+[2024-04-27 15:59:05,644 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-04-27 15:59:05,707 INFO]
+Done.
+[2024-04-28 19:55:53,186 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-04-28 19:55:53,186 INFO] 	* source vocab: 80 words
+[2024-04-28 19:55:53,186 INFO] 	* target vocab: 80 words
+[2024-04-28 19:56:22,475 INFO] Got 218114 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d_part_1.txt
+[2024-04-28 19:56:22,615 INFO]
+Matching:
+[2024-04-28 19:56:22,615 INFO] 	* enc: 76 match, 4 missing, (95.00%)
+[2024-04-28 19:56:22,615 INFO] 	* dec: 76 match, 4 missing, (95.00%)
+[2024-04-28 19:56:22,615 INFO]
+Filtered embeddings:
+[2024-04-28 19:56:22,631 INFO] 	* enc: torch.Size([80, 300])
+[2024-04-28 19:56:22,631 INFO] 	* dec: torch.Size([80, 300])
+[2024-04-28 19:56:22,631 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-04-28 19:56:22,647 INFO]
+Done.
+[2024-05-06 17:28:29,178 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-05-06 17:28:29,193 INFO] 	* source vocab: 80 words
+[2024-05-06 17:28:29,193 INFO] 	* target vocab: 80 words
+[2024-05-06 17:28:30,865 INFO] Got 10000 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d_fg1.txt
+[2024-05-06 17:28:31,021 INFO]
+Matching:
+[2024-05-06 17:28:31,021 INFO] 	* enc: 66 match, 14 missing, (82.50%)
+[2024-05-06 17:28:31,021 INFO] 	* dec: 66 match, 14 missing, (82.50%)
+[2024-05-06 17:28:31,021 INFO]
+Filtered embeddings:
+[2024-05-06 17:28:31,037 INFO] 	* enc: torch.Size([80, 300])
+[2024-05-06 17:28:31,037 INFO] 	* dec: torch.Size([80, 300])
+[2024-05-06 17:28:31,037 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-05-06 17:28:31,131 INFO]
+Done.
+[2024-05-12 16:12:21,936 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-05-12 16:12:21,946 INFO] 	* source vocab: 80 words
+[2024-05-12 16:12:21,947 INFO] 	* target vocab: 80 words
+[2024-05-12 16:12:23,511 INFO] Got 10000 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d_fg1.txt
+[2024-05-12 16:12:23,722 INFO]
+Matching:
+[2024-05-12 16:12:23,722 INFO] 	* enc: 66 match, 14 missing, (82.50%)
+[2024-05-12 16:12:23,722 INFO] 	* dec: 66 match, 14 missing, (82.50%)
+[2024-05-12 16:12:23,722 INFO]
+Filtered embeddings:
+[2024-05-12 16:12:23,735 INFO] 	* enc: torch.Size([80, 300])
+[2024-05-12 16:12:23,736 INFO] 	* dec: torch.Size([80, 300])
+[2024-05-12 16:12:23,736 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-05-12 16:12:23,791 INFO]
+Done.
+[2024-05-12 19:09:11,930 INFO] From: D:/shiyan/HMD_Network-master/data/processed2.vocab.pt
+[2024-05-12 19:09:11,930 INFO] 	* source vocab: 53 words
+[2024-05-12 19:09:11,930 INFO] 	* target vocab: 53 words
+[2024-05-12 19:09:13,386 INFO] Got 10000 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d_fg1.txt
+[2024-05-12 19:09:13,388 INFO]
+Matching:
+[2024-05-12 19:09:13,388 INFO] 	* enc: 46 match, 7 missing, (86.79%)
+[2024-05-12 19:09:13,407 INFO] 	* dec: 46 match, 7 missing, (86.79%)
+[2024-05-12 19:09:13,407 INFO]
+Filtered embeddings:
+[2024-05-12 19:09:13,407 INFO] 	* enc: torch.Size([53, 300])
+[2024-05-12 19:09:13,407 INFO] 	* dec: torch.Size([53, 300])
+[2024-05-12 19:09:13,407 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-05-12 19:09:13,410 INFO]
+Done.
+[2024-05-14 20:08:41,150 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-05-14 20:08:41,160 INFO] 	* source vocab: 50004 words
+[2024-05-14 20:08:41,160 INFO] 	* target vocab: 50004 words
+[2024-05-14 20:14:21,340 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-05-14 20:14:23,198 INFO]
+Matching:
+[2024-05-14 20:14:23,198 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-05-14 20:14:23,198 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-05-14 20:14:23,198 INFO]
+Filtered embeddings:
+[2024-05-14 20:14:23,225 INFO] 	* enc: torch.Size([50004, 300])
+[2024-05-14 20:14:23,226 INFO] 	* dec: torch.Size([50004, 300])
+[2024-05-14 20:14:23,226 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-05-14 20:14:24,275 INFO]
+Done.
+[2024-05-15 11:21:49,428 INFO] From: D:/shiyan/HMD_Network-master-1/data/processed.vocab.pt
+[2024-05-15 11:21:49,428 INFO] 	* source vocab: 53 words
+[2024-05-15 11:21:49,428 INFO] 	* target vocab: 53 words
+[2024-05-15 11:29:04,691 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master-1/glove.840B.300d.txt
+[2024-05-15 11:29:05,535 INFO]
+Matching:
+[2024-05-15 11:29:05,548 INFO] 	* enc: 51 match, 2 missing, (96.23%)
+[2024-05-15 11:29:05,548 INFO] 	* dec: 51 match, 2 missing, (96.23%)
+[2024-05-15 11:29:05,548 INFO]
+Filtered embeddings:
+[2024-05-15 11:29:05,574 INFO] 	* enc: torch.Size([53, 300])
+[2024-05-15 11:29:05,575 INFO] 	* dec: torch.Size([53, 300])
+[2024-05-15 11:29:05,575 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master-1/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master-1/data/processed.glove.dec.pt
+[2024-05-15 11:29:05,813 INFO]
+Done.
+[2024-05-17 20:46:25,591 INFO] From: D:/shiyan/A-A/data/processed.vocab.pt
+[2024-05-17 20:46:25,600 INFO] 	* source vocab: 50004 words
+[2024-05-17 20:46:25,600 INFO] 	* target vocab: 50004 words
+[2024-05-17 20:52:28,704 INFO] Got 2196007 encryption embeddings from D:/shiyan/A-A/glove.840B.300d.txt
+[2024-05-17 20:52:30,563 INFO]
+Matching:
+[2024-05-17 20:52:30,563 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-05-17 20:52:30,564 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-05-17 20:52:30,564 INFO]
+Filtered embeddings:
+[2024-05-17 20:52:30,578 INFO] 	* enc: torch.Size([50004, 300])
+[2024-05-17 20:52:30,578 INFO] 	* dec: torch.Size([50004, 300])
+[2024-05-17 20:52:30,578 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/A-A/data/processed.glove.enc.pt
+	* dec: D:/shiyan/A-A/data/processed.glove.dec.pt
+[2024-05-17 20:52:31,574 INFO]
+Done.
+[2024-05-18 10:06:11,493 INFO] From: D:/shiyan/A-A/data/processed.vocab.pt
+[2024-05-18 10:06:11,494 INFO] 	* source vocab: 50004 words
+[2024-05-18 10:06:11,494 INFO] 	* target vocab: 50004 words
+[2024-05-18 10:12:13,251 INFO] Got 2196007 encryption embeddings from D:/shiyan/A-A/glove.840B.300d.txt
+[2024-05-18 10:12:15,157 INFO]
+Matching:
+[2024-05-18 10:12:15,157 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-05-18 10:12:15,157 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-05-18 10:12:15,157 INFO]
+Filtered embeddings:
+[2024-05-18 10:12:15,172 INFO] 	* enc: torch.Size([50004, 300])
+[2024-05-18 10:12:15,172 INFO] 	* dec: torch.Size([50004, 300])
+[2024-05-18 10:12:15,172 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/A-A/data/processed.glove.enc.pt
+	* dec: D:/shiyan/A-A/data/processed.glove.dec.pt
+[2024-05-18 10:12:16,215 INFO]
+Done.
+[2024-05-19 08:53:52,642 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-05-19 08:53:52,660 INFO] 	* source vocab: 50004 words
+[2024-05-19 08:53:52,660 INFO] 	* target vocab: 50004 words
+[2024-05-19 08:59:49,983 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-05-19 08:59:51,853 INFO]
+Matching:
+[2024-05-19 08:59:51,854 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-05-19 08:59:51,854 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-05-19 08:59:51,854 INFO]
+Filtered embeddings:
+[2024-05-19 08:59:51,873 INFO] 	* enc: torch.Size([50004, 300])
+[2024-05-19 08:59:51,873 INFO] 	* dec: torch.Size([50004, 300])
+[2024-05-19 08:59:51,873 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-05-19 08:59:52,857 INFO]
+Done.
+[2024-05-22 11:00:25,298 INFO] From: D:/shiyan/HMD_Network-master-G/data/processed.vocab.pt
+[2024-05-22 11:00:25,314 INFO] 	* source vocab: 53 words
+[2024-05-22 11:00:25,314 INFO] 	* target vocab: 53 words
+[2024-05-22 11:13:55,636 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master-G/glove.840B.300d.txt
+[2024-05-22 11:13:56,519 INFO]
+Matching:
+[2024-05-22 11:13:56,520 INFO] 	* enc: 51 match, 2 missing, (96.23%)
+[2024-05-22 11:13:56,541 INFO] 	* dec: 51 match, 2 missing, (96.23%)
+[2024-05-22 11:13:56,541 INFO]
+Filtered embeddings:
+[2024-05-22 11:13:56,608 INFO] 	* enc: torch.Size([53, 300])
+[2024-05-22 11:13:56,608 INFO] 	* dec: torch.Size([53, 300])
+[2024-05-22 11:13:56,608 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master-G/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master-G/data/processed.glove.dec.pt
+[2024-05-22 11:13:57,128 INFO]
+Done.
+[2024-05-27 14:53:42,977 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-05-27 14:53:42,992 INFO] 	* source vocab: 50004 words
+[2024-05-27 14:53:42,992 INFO] 	* target vocab: 50004 words
+[2024-05-27 15:10:05,537 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-05-27 15:10:05,553 INFO] 	* source vocab: 50004 words
+[2024-05-27 15:10:05,553 INFO] 	* target vocab: 50004 words
+[2024-05-27 15:10:59,743 INFO] From: D:/shiyan/HMD_Network-master-G/data/processed.vocab.pt
+[2024-05-27 15:10:59,743 INFO] 	* source vocab: 2004 words
+[2024-05-27 15:10:59,743 INFO] 	* target vocab: 2004 words
+[2024-05-27 15:12:58,367 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-05-27 15:13:01,164 INFO]
+Matching:
+[2024-05-27 15:13:01,164 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-05-27 15:13:01,164 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-05-27 15:13:01,164 INFO]
+Filtered embeddings:
+[2024-05-27 15:13:01,174 INFO] 	* enc: torch.Size([50004, 300])
+[2024-05-27 15:13:01,174 INFO] 	* dec: torch.Size([50004, 300])
+[2024-05-27 15:13:01,174 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-05-27 15:13:01,883 INFO]
+Done.
+[2024-05-27 15:18:56,592 INFO] From: D:/shiyan/HMD_Network-master-G/data/processed.vocab.pt
+[2024-05-27 15:18:56,592 INFO] 	* source vocab: 2004 words
+[2024-05-27 15:18:56,592 INFO] 	* target vocab: 2004 words
+[2024-05-27 15:21:22,711 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master-G/glove.840B.300d.txt
+[2024-05-27 15:21:22,868 INFO]
+Matching:
+[2024-05-27 15:21:22,868 INFO] 	* enc: 2002 match, 2 missing, (99.90%)
+[2024-05-27 15:21:22,868 INFO] 	* dec: 2002 match, 2 missing, (99.90%)
+[2024-05-27 15:21:22,868 INFO]
+Filtered embeddings:
+[2024-05-27 15:21:22,868 INFO] 	* enc: torch.Size([2004, 300])
+[2024-05-27 15:21:22,868 INFO] 	* dec: torch.Size([2004, 300])
+[2024-05-27 15:21:22,868 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master-G/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master-G/data/processed.glove.dec.pt
+[2024-05-27 15:21:22,946 INFO]
+Done.
+[2024-05-27 16:07:08,614 INFO] From: D:/shiyan/HMD_Network-master-G/data/processed.vocab.pt
+[2024-05-27 16:07:08,630 INFO] 	* source vocab: 2004 words
+[2024-05-27 16:07:08,630 INFO] 	* target vocab: 2004 words
+[2024-05-27 16:07:09,286 INFO] Got 10000 encryption embeddings from D:/shiyan/HMD_Network-master-G/glove.840B.300d_fg1.txt
+[2024-05-27 16:07:09,427 INFO]
+Matching:
+[2024-05-27 16:07:09,427 INFO] 	* enc: 1915 match, 89 missing, (95.56%)
+[2024-05-27 16:07:09,427 INFO] 	* dec: 1915 match, 89 missing, (95.56%)
+[2024-05-27 16:07:09,427 INFO]
+Filtered embeddings:
+[2024-05-27 16:07:09,427 INFO] 	* enc: torch.Size([2004, 300])
+[2024-05-27 16:07:09,427 INFO] 	* dec: torch.Size([2004, 300])
+[2024-05-27 16:07:09,427 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master-G/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master-G/data/processed.glove.dec.pt
+[2024-05-27 16:07:09,458 INFO]
+Done.
+[2024-05-28 12:21:30,769 INFO] From: D:/shiyan/HMD_Network-master-G/data/processed.vocab.pt
+[2024-05-28 12:21:30,769 INFO] 	* source vocab: 2004 words
+[2024-05-28 12:21:30,769 INFO] 	* target vocab: 2004 words
+[2024-05-28 12:21:32,054 INFO] Got 10000 encryption embeddings from D:/shiyan/HMD_Network-master-G/glove.840B.300d_fg1.txt
+[2024-05-28 12:21:32,086 INFO]
+Matching:
+[2024-05-28 12:21:32,086 INFO] 	* enc: 1915 match, 89 missing, (95.56%)
+[2024-05-28 12:21:32,086 INFO] 	* dec: 1915 match, 89 missing, (95.56%)
+[2024-05-28 12:21:32,086 INFO]
+Filtered embeddings:
+[2024-05-28 12:21:32,086 INFO] 	* enc: torch.Size([2004, 300])
+[2024-05-28 12:21:32,086 INFO] 	* dec: torch.Size([2004, 300])
+[2024-05-28 12:21:32,086 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master-G/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master-G/data/processed.glove.dec.pt
+[2024-05-28 12:21:32,148 INFO]
+Done.
+[2024-05-28 16:49:48,015 INFO] From: D:/shiyan/HMD_Network-master-G1/data/processed.vocab.pt
+[2024-05-28 16:49:48,015 INFO] 	* source vocab: 50004 words
+[2024-05-28 16:49:48,015 INFO] 	* target vocab: 50004 words
+[2024-05-28 16:49:48,687 INFO] Got 10000 encryption embeddings from D:/shiyan/HMD_Network-master-G1/glove.840B.300d_fg1.txt
+[2024-05-28 16:49:48,859 INFO]
+Matching:
+[2024-05-28 16:49:48,859 INFO] 	* enc: 6343 match, 43661 missing, (12.68%)
+[2024-05-28 16:49:48,859 INFO] 	* dec: 6343 match, 43661 missing, (12.68%)
+[2024-05-28 16:49:48,859 INFO]
+Filtered embeddings:
+[2024-05-28 16:49:48,859 INFO] 	* enc: torch.Size([50004, 300])
+[2024-05-28 16:49:48,859 INFO] 	* dec: torch.Size([50004, 300])
+[2024-05-28 16:49:48,859 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master-G1/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master-G1/data/processed.glove.dec.pt
+[2024-05-28 16:49:49,344 INFO]
+Done.
+[2024-06-06 08:28:38,773 INFO] From: D:/shiyan/HMD-DG/data/processed.vocab.pt
+[2024-06-06 08:28:38,773 INFO] 	* source vocab: 50004 words
+[2024-06-06 08:28:38,773 INFO] 	* target vocab: 50004 words
+[2024-06-06 08:31:01,417 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD-DG/glove.840B.300d.txt
+[2024-06-06 08:31:02,356 INFO]
+Matching:
+[2024-06-06 08:31:02,356 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-06-06 08:31:02,356 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-06-06 08:31:02,356 INFO]
+Filtered embeddings:
+[2024-06-06 08:31:02,371 INFO] 	* enc: torch.Size([50004, 300])
+[2024-06-06 08:31:02,371 INFO] 	* dec: torch.Size([50004, 300])
+[2024-06-06 08:31:02,371 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD-DG/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD-DG/data/processed.glove.dec.pt
+[2024-06-06 08:31:03,168 INFO]
+Done.
+[2024-06-07 14:26:33,886 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-06-07 14:26:33,901 INFO] 	* source vocab: 50004 words
+[2024-06-07 14:26:33,901 INFO] 	* target vocab: 50004 words
+[2024-06-07 14:29:03,847 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-06-07 14:29:06,067 INFO]
+Matching:
+[2024-06-07 14:29:06,067 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-06-07 14:29:06,067 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-06-07 14:29:06,067 INFO]
+Filtered embeddings:
+[2024-06-07 14:29:06,067 INFO] 	* enc: torch.Size([50004, 300])
+[2024-06-07 14:29:06,067 INFO] 	* dec: torch.Size([50004, 300])
+[2024-06-07 14:29:06,067 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-06-07 14:29:06,846 INFO]
+Done.
+[2024-06-07 20:18:49,153 INFO] From: D:/shiyan/HMD-AAA/data/processed.vocab.pt
+[2024-06-07 20:18:49,184 INFO] 	* source vocab: 50004 words
+[2024-06-07 20:18:49,184 INFO] 	* target vocab: 50004 words
+[2024-06-07 20:26:11,626 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD-AAA/glove.840B.300d.txt
+[2024-06-07 20:26:25,394 INFO]
+Matching:
+[2024-06-07 20:26:25,409 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-06-07 20:26:25,409 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-06-07 20:26:25,409 INFO]
+Filtered embeddings:
+[2024-06-07 20:26:25,425 INFO] 	* enc: torch.Size([50004, 300])
+[2024-06-07 20:26:25,425 INFO] 	* dec: torch.Size([50004, 300])
+[2024-06-07 20:26:25,425 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD-AAA/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD-AAA/data/processed.glove.dec.pt
+[2024-06-07 20:26:26,222 INFO]
+Done.
+[2024-06-12 11:23:43,887 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-06-12 11:23:43,887 INFO] 	* source vocab: 50004 words
+[2024-06-12 11:23:43,887 INFO] 	* target vocab: 50004 words
+[2024-06-12 11:26:42,679 INFO] Got 2196007 encryption embeddings from D:/shiyan/HMD_Network-master/glove.840B.300d.txt
+[2024-06-12 11:26:45,773 INFO]
+Matching:
+[2024-06-12 11:26:45,773 INFO] 	* enc: 41400 match, 8604 missing, (82.79%)
+[2024-06-12 11:26:45,773 INFO] 	* dec: 41400 match, 8604 missing, (82.79%)
+[2024-06-12 11:26:45,773 INFO]
+Filtered embeddings:
+[2024-06-12 11:26:45,789 INFO] 	* enc: torch.Size([50004, 300])
+[2024-06-12 11:26:45,789 INFO] 	* dec: torch.Size([50004, 300])
+[2024-06-12 11:26:45,789 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-06-12 11:26:46,586 INFO]
+Done.
+[2024-06-16 16:08:23,106 INFO] From: D:/shiyan/HMD_Network-master/data/processed.vocab.pt
+[2024-06-16 16:08:23,106 INFO] 	* source vocab: 50004 words
+[2024-06-16 16:08:23,106 INFO] 	* target vocab: 50004 words
+[2024-06-16 16:08:27,860 INFO] Got 400001 encryption embeddings from D:/shiyan/HMD_Network-master/glove.6B.50d.txt
+[2024-06-16 16:08:28,959 INFO]
+Matching:
+[2024-06-16 16:08:28,959 INFO] 	* enc: 41835 match, 8169 missing, (83.66%)
+[2024-06-16 16:08:28,959 INFO] 	* dec: 41835 match, 8169 missing, (83.66%)
+[2024-06-16 16:08:28,959 INFO]
+Filtered embeddings:
+[2024-06-16 16:08:28,959 INFO] 	* enc: torch.Size([50004, 50])
+[2024-06-16 16:08:28,959 INFO] 	* dec: torch.Size([50004, 50])
+[2024-06-16 16:08:28,959 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD_Network-master/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD_Network-master/data/processed.glove.dec.pt
+[2024-06-16 16:08:28,989 INFO]
+Done.
+[2024-07-30 09:02:24,140 INFO] From: D:/shiyan/HMD-Transformer/data/processed.vocab.pt
+[2024-07-30 09:02:24,142 INFO] 	* source vocab: 50004 words
+[2024-07-30 09:02:24,142 INFO] 	* target vocab: 50004 words
+[2024-07-30 09:05:42,270 INFO] Got 2196007 encryption embeddings from D:/shiyan/glove.840B.300d.txt
+[2024-07-30 09:05:43,247 INFO]
+Matching:
+[2024-07-30 09:05:43,248 INFO] 	* enc: 42100 match, 7904 missing, (84.19%)
+[2024-07-30 09:05:43,248 INFO] 	* dec: 42100 match, 7904 missing, (84.19%)
+[2024-07-30 09:05:43,248 INFO]
+Filtered embeddings:
+[2024-07-30 09:05:43,259 INFO] 	* enc: torch.Size([50004, 300])
+[2024-07-30 09:05:43,274 INFO] 	* dec: torch.Size([50004, 300])
+[2024-07-30 09:05:43,274 INFO]
+Saving embedding as:
+	* enc: D:/shiyan/HMD-Transformer/data/processed.glove.enc.pt
+	* dec: D:/shiyan/HMD-Transformer/data/processed.glove.dec.pt
+[2024-07-30 09:05:44,204 INFO]
+Done.
